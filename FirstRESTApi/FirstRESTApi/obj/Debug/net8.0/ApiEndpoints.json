@@ -1,0 +1,144 @@
+[
+  {
+    "ContainingType": "FirstRESTApi.Controllers.PlaylistController",
+    "Method": "GetAllPlaylists",
+    "RelativePath": "api/Playlist",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FirstRESTApi.Controllers.PlaylistController",
+    "Method": "RemoveSongFromPlaylist",
+    "RelativePath": "api/Playlist/{playlistId}/{songId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "playlistId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "songId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FirstRESTApi.Controllers.PlaylistController",
+    "Method": "AddSongToPlaylist",
+    "RelativePath": "api/Playlist/{playlistId}/add-song",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "playlistId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "songName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FirstRESTApi.Controllers.PlaylistController",
+    "Method": "deleteplaylist",
+    "RelativePath": "api/Playlist/{playlistId}/deleteplaylist",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "playlistId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FirstRESTApi.Controllers.PlaylistController",
+    "Method": "GetPlaylistSongs",
+    "RelativePath": "api/Playlist/{playlistId}/songs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "playlistId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FirstRESTApi.Controllers.PlaylistController",
+    "Method": "CreateEdit",
+    "RelativePath": "api/Playlist/createplaylist",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "playlist",
+        "Type": "FirstRESTApi.Model.Playlist",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FirstRESTApi.Controllers.PlaylistController",
+    "Method": "Search",
+    "RelativePath": "api/Playlist/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FirstRESTApi.Controllers.SongController",
+    "Method": "GetRandomSongs",
+    "RelativePath": "api/Song/getRandSongs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FirstRESTApi.Controllers.SongController",
+    "Method": "SearchSongsAsync",
+    "RelativePath": "api/Song/songsearch",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

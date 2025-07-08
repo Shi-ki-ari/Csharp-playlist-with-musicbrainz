@@ -1,0 +1,4 @@
+C:\Users\Tewodor\Desktop\Code\Csharp-playlist-with-musicbrainz-main\Csharp-playlist-with-musicbrainz-main\FirstRESTApi\FirstRESTApi\publish\appsettings.Development.json
+C:\Users\Tewodor\Desktop\Code\Csharp-playlist-with-musicbrainz-main\Csharp-playlist-with-musicbrainz-main\FirstRESTApi\FirstRESTApi\publish\appsettings.json
+C:\Users\Tewodor\Desktop\Code\Csharp-playlist-with-musicbrainz-main\Csharp-playlist-with-musicbrainz-main\FirstRESTApi\FirstRESTApi\publish\FirstRESTApi.pdb
+C:\Users\Tewodor\Desktop\Code\Csharp-playlist-with-musicbrainz-main\Csharp-playlist-with-musicbrainz-main\FirstRESTApi\FirstRESTApi\publish\FirstRESTApi.exe

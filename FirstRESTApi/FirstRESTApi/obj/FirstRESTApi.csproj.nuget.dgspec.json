@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\FirstRESTApi\\FirstRESTApi\\FirstRESTApi.csproj": {}
+    "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\FirstRESTApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\FirstRESTApi\\FirstRESTApi\\FirstRESTApi.csproj": {
+    "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\FirstRESTApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\FirstRESTApi\\FirstRESTApi\\FirstRESTApi.csproj",
+        "projectUniqueName": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\FirstRESTApi.csproj",
         "projectName": "FirstRESTApi",
-        "projectPath": "C:\\Users\\User\\source\\repos\\FirstRESTApi\\FirstRESTApi\\FirstRESTApi.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\FirstRESTApi\\FirstRESTApi\\obj\\",
+        "projectPath": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\FirstRESTApi.csproj",
+        "packagesPath": "C:\\Users\\Tewodor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tewodor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -50,17 +50,29 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.5, )"
+              "version": "[9.0.6, )"
             },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
-              "version": "[9.0.5, )"
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.17, )",
+              "autoReferenced": true
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.6.2, )"
+              "version": "[9.0.1, )"
             }
           },
           "imports": [
@@ -74,6 +86,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[8.0.17, 8.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[8.0.17, 8.0.17]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[8.0.17, 8.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -82,7 +108,12 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }

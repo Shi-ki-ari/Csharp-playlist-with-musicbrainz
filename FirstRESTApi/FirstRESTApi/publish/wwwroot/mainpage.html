@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="mainpage.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <script src="mainpage.js" defer></script>
+
+    <title>Playlist Manager</title>
+</head>
+<body>
+  <div class="page-layout">
+    <div class="left-column">
+        <h1>Random Songs</h1>
+        <ul id="random-songs-list"></ul>
+    </div>
+<div class="center-column">
+  <h1>My Playlists</h1>
+
+  <input type="text" id="playlist-name" placeholder="New playlist name" />
+  <button id="add-playlist-button">Add Playlist</button>
+    <ul id="playlist-list">
+    <!-- Playlists will go here -->
+  </ul>
+</div>
+
+        <div class="right-column">
+        <h1>Search songs</h1>
+        <input type="text" id="song-name" placeholder="Song name" />
+        <ul id="search-results"></ul>   
+        
+    </div>
+  </div>
+
+
+
+</html>
