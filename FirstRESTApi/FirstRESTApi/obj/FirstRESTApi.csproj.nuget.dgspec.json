@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\FirstRESTApi.csproj": {}
+    "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\FirstRESTApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\FirstRESTApi.csproj": {
+    "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\FirstRESTApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\FirstRESTApi.csproj",
+        "projectUniqueName": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\FirstRESTApi.csproj",
         "projectName": "FirstRESTApi",
-        "projectPath": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\FirstRESTApi.csproj",
+        "projectPath": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\FirstRESTApi.csproj",
         "packagesPath": "C:\\Users\\Tewodor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\obj\\",
+        "outputPath": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,12 +64,6 @@
               "target": "Package",
               "version": "[9.0.6, )"
             },
-            "Microsoft.NET.ILLink.Tasks": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.17, )",
-              "autoReferenced": true
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[9.0.1, )"
@@ -86,20 +80,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[8.0.17, 8.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[8.0.17, 8.0.17]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[8.0.17, 8.0.17]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -109,11 +89,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
         }
       }
     }

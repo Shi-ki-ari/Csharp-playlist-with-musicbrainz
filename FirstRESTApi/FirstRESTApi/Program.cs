@@ -6,7 +6,6 @@ using System.IO;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Determine a safe, writable location for the SQLite DB
 var folder = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
 var dbPath = Path.Combine(folder, "playlist.db");
 

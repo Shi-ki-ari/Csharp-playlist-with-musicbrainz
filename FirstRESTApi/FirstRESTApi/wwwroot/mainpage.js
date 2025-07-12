@@ -43,14 +43,14 @@ data.forEach(songName => {
   const li = document.createElement("li");
   li.textContent = songName;
 
-  // ➕ Add Button
+  // Add Button
   const addBtn = document.createElement("button");
   addBtn.textContent = "+";
   addBtn.style.marginLeft = "10px";
   addBtn.style.cursor = "pointer";
 
   addBtn.addEventListener("click", () => {
-  // Prevent multiple dropdowns or buttons
+  // Prevent multiple buttons
   if (li.querySelector("select") || li.querySelector(".confirm-add-button")) return;
 
   const dropdown = document.createElement("select");
@@ -120,7 +120,7 @@ async function loadPlaylists() {
         const li = document.createElement('li');
         li.textContent = pl.name + " ";
 
-        // Delete button
+        // delete button
         const deleteBtn = document.createElement('button');
         deleteBtn.textContent = 'X';
         deleteBtn.style.marginLeft = '10px';

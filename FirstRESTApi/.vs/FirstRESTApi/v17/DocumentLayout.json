@@ -1,69 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\",
+  "WorkspaceRootPath": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\desktop\\code\\csharp-playlist-with-musicbrainz-main\\csharp-playlist-with-musicbrainz-main\\firstrestapi\\firstrestapi\\data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|solutionrelative:firstrestapi\\data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\desktop\\code\\csharp-playlist-with-musicbrainz-main\\csharp-playlist-with-musicbrainz-main\\firstrestapi\\firstrestapi\\controllers\\imusicbrainzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|solutionrelative:firstrestapi\\controllers\\imusicbrainzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\desktop\\code\\csharp-playlist-with-musicbrainz-main\\csharp-playlist-with-musicbrainz-main\\firstrestapi\\firstrestapi\\wwwroot\\mainpage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\documents\\github\\csharp-playlist-with-musicbrainz\\firstrestapi\\firstrestapi\\wwwroot\\mainpage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|solutionrelative:firstrestapi\\wwwroot\\mainpage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\desktop\\code\\csharp-playlist-with-musicbrainz-main\\csharp-playlist-with-musicbrainz-main\\firstrestapi\\firstrestapi\\wwwroot\\mainpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|solutionrelative:firstrestapi\\wwwroot\\mainpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\desktop\\code\\csharp-playlist-with-musicbrainz-main\\csharp-playlist-with-musicbrainz-main\\firstrestapi\\firstrestapi\\wwwroot\\mainpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|solutionrelative:firstrestapi\\wwwroot\\mainpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\desktop\\code\\csharp-playlist-with-musicbrainz-main\\csharp-playlist-with-musicbrainz-main\\firstrestapi\\firstrestapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|solutionrelative:firstrestapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\desktop\\code\\csharp-playlist-with-musicbrainz-main\\csharp-playlist-with-musicbrainz-main\\firstrestapi\\firstrestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|solutionrelative:firstrestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\desktop\\code\\csharp-playlist-with-musicbrainz-main\\csharp-playlist-with-musicbrainz-main\\firstrestapi\\firstrestapi\\migrations\\apicontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|solutionrelative:firstrestapi\\migrations\\apicontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\desktop\\code\\csharp-playlist-with-musicbrainz-main\\csharp-playlist-with-musicbrainz-main\\firstrestapi\\firstrestapi\\migrations\\20250708102734_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|solutionrelative:firstrestapi\\migrations\\20250708102734_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\desktop\\code\\csharp-playlist-with-musicbrainz-main\\csharp-playlist-with-musicbrainz-main\\firstrestapi\\firstrestapi\\controllers\\songcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|solutionrelative:firstrestapi\\controllers\\songcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\desktop\\code\\csharp-playlist-with-musicbrainz-main\\csharp-playlist-with-musicbrainz-main\\firstrestapi\\firstrestapi\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\documents\\github\\csharp-playlist-with-musicbrainz\\firstrestapi\\firstrestapi\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|solutionrelative:firstrestapi\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\desktop\\code\\csharp-playlist-with-musicbrainz-main\\csharp-playlist-with-musicbrainz-main\\firstrestapi\\firstrestapi\\model\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|solutionrelative:firstrestapi\\model\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\desktop\\code\\csharp-playlist-with-musicbrainz-main\\csharp-playlist-with-musicbrainz-main\\firstrestapi\\firstrestapi\\firstrestapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|solutionrelative:firstrestapi\\firstrestapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\desktop\\code\\csharp-playlist-with-musicbrainz-main\\csharp-playlist-with-musicbrainz-main\\firstrestapi\\firstrestapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\documents\\github\\csharp-playlist-with-musicbrainz\\firstrestapi\\firstrestapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|solutionrelative:firstrestapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\desktop\\code\\csharp-playlist-with-musicbrainz-main\\csharp-playlist-with-musicbrainz-main\\firstrestapi\\firstrestapi\\model\\dailyseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\documents\\github\\csharp-playlist-with-musicbrainz\\firstrestapi\\firstrestapi\\wwwroot\\mainpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|solutionrelative:firstrestapi\\wwwroot\\mainpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\documents\\github\\csharp-playlist-with-musicbrainz\\firstrestapi\\firstrestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|solutionrelative:firstrestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\documents\\github\\csharp-playlist-with-musicbrainz\\firstrestapi\\firstrestapi\\data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|solutionrelative:firstrestapi\\data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\documents\\github\\csharp-playlist-with-musicbrainz\\firstrestapi\\firstrestapi\\controllers\\imusicbrainzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|solutionrelative:firstrestapi\\controllers\\imusicbrainzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\documents\\github\\csharp-playlist-with-musicbrainz\\firstrestapi\\firstrestapi\\controllers\\songcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|solutionrelative:firstrestapi\\controllers\\songcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\documents\\github\\csharp-playlist-with-musicbrainz\\firstrestapi\\firstrestapi\\wwwroot\\mainpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|solutionrelative:firstrestapi\\wwwroot\\mainpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\documents\\github\\csharp-playlist-with-musicbrainz\\firstrestapi\\firstrestapi\\model\\dailyseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|solutionrelative:firstrestapi\\model\\dailyseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\desktop\\code\\csharp-playlist-with-musicbrainz-main\\csharp-playlist-with-musicbrainz-main\\firstrestapi\\firstrestapi\\model\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|c:\\users\\tewodor\\documents\\github\\csharp-playlist-with-musicbrainz\\firstrestapi\\firstrestapi\\model\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C128B70E-11E0-4919-8353-CCFBE68D5560}|FirstRESTApi\\FirstRESTApi.csproj|solutionrelative:firstrestapi\\model\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -74,118 +54,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "mainpage.html",
-              "DocumentMoniker": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\wwwroot\\mainpage.html",
-              "RelativeDocumentMoniker": "FirstRESTApi\\wwwroot\\mainpage.html",
-              "ToolTip": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\wwwroot\\mainpage.html",
-              "RelativeToolTip": "FirstRESTApi\\wwwroot\\mainpage.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-07-08T12:14:32.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "mainpage.css",
-              "DocumentMoniker": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\wwwroot\\mainpage.css",
+              "DocumentMoniker": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\wwwroot\\mainpage.css",
               "RelativeDocumentMoniker": "FirstRESTApi\\wwwroot\\mainpage.css",
-              "ToolTip": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\wwwroot\\mainpage.css",
+              "ToolTip": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\wwwroot\\mainpage.css",
               "RelativeToolTip": "FirstRESTApi\\wwwroot\\mainpage.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAIAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-07-08T12:14:31.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApiContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\Migrations\\ApiContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "FirstRESTApi\\Migrations\\ApiContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\Migrations\\ApiContextModelSnapshot.cs",
-              "RelativeToolTip": "FirstRESTApi\\Migrations\\ApiContextModelSnapshot.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T12:14:22.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250708102734_InitialMigration.cs",
-              "DocumentMoniker": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\Migrations\\20250708102734_InitialMigration.cs",
-              "RelativeDocumentMoniker": "FirstRESTApi\\Migrations\\20250708102734_InitialMigration.cs",
-              "ToolTip": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\Migrations\\20250708102734_InitialMigration.cs",
-              "RelativeToolTip": "FirstRESTApi\\Migrations\\20250708102734_InitialMigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T12:14:22.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "mainpage.js",
-              "DocumentMoniker": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\wwwroot\\mainpage.js",
+              "DocumentMoniker": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\wwwroot\\mainpage.js",
               "RelativeDocumentMoniker": "FirstRESTApi\\wwwroot\\mainpage.js",
-              "ToolTip": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\wwwroot\\mainpage.js",
+              "ToolTip": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\wwwroot\\mainpage.js",
               "RelativeToolTip": "FirstRESTApi\\wwwroot\\mainpage.js",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAAAM0AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwCcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-07-08T12:04:58.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FirstRESTApi",
-              "DocumentMoniker": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\FirstRESTApi.csproj",
-              "RelativeDocumentMoniker": "FirstRESTApi\\FirstRESTApi.csproj",
-              "ToolTip": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\FirstRESTApi.csproj",
-              "RelativeToolTip": "FirstRESTApi\\FirstRESTApi.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-08T10:10:46.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "FirstRESTApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "FirstRESTApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-08T10:07:01.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "SongController.cs",
-              "DocumentMoniker": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\Controllers\\SongController.cs",
+              "DocumentMoniker": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\Controllers\\SongController.cs",
               "RelativeDocumentMoniker": "FirstRESTApi\\Controllers\\SongController.cs",
-              "ToolTip": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\Controllers\\SongController.cs",
+              "ToolTip": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\Controllers\\SongController.cs",
               "RelativeToolTip": "FirstRESTApi\\Controllers\\SongController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAwwEsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-02T14:20:02.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "IMusicBrainzService.cs",
-              "DocumentMoniker": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\Controllers\\IMusicBrainzService.cs",
+              "DocumentMoniker": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\Controllers\\IMusicBrainzService.cs",
               "RelativeDocumentMoniker": "FirstRESTApi\\Controllers\\IMusicBrainzService.cs",
-              "ToolTip": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\Controllers\\IMusicBrainzService.cs",
+              "ToolTip": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\Controllers\\IMusicBrainzService.cs",
               "RelativeToolTip": "FirstRESTApi\\Controllers\\IMusicBrainzService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -194,11 +110,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ApiContext.cs",
-              "DocumentMoniker": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\Data\\ApiContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\Data\\ApiContext.cs",
               "RelativeDocumentMoniker": "FirstRESTApi\\Data\\ApiContext.cs",
-              "ToolTip": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\Data\\ApiContext.cs",
+              "ToolTip": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\Data\\ApiContext.cs",
               "RelativeToolTip": "FirstRESTApi\\Data\\ApiContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,11 +123,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\Program.cs",
+              "RelativeDocumentMoniker": "FirstRESTApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\Program.cs",
+              "RelativeToolTip": "FirstRESTApi\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:11:49.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mainpage.html",
+              "DocumentMoniker": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\wwwroot\\mainpage.html",
+              "RelativeDocumentMoniker": "FirstRESTApi\\wwwroot\\mainpage.html",
+              "ToolTip": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\wwwroot\\mainpage.html",
+              "RelativeToolTip": "FirstRESTApi\\wwwroot\\mainpage.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-08T12:14:32.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\appsettings.json",
               "RelativeDocumentMoniker": "FirstRESTApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\appsettings.json",
               "RelativeToolTip": "FirstRESTApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -220,50 +162,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "PlaylistController.cs",
-              "DocumentMoniker": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\Controllers\\PlaylistController.cs",
+              "DocumentMoniker": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\Controllers\\PlaylistController.cs",
               "RelativeDocumentMoniker": "FirstRESTApi\\Controllers\\PlaylistController.cs",
-              "ToolTip": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\Controllers\\PlaylistController.cs",
+              "ToolTip": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\Controllers\\PlaylistController.cs",
               "RelativeToolTip": "FirstRESTApi\\Controllers\\PlaylistController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJcAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAcwH0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T09:12:56.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\Program.cs",
-              "RelativeDocumentMoniker": "FirstRESTApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\Program.cs",
-              "RelativeToolTip": "FirstRESTApi\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAD4AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T09:11:49.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Song.cs",
-              "DocumentMoniker": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\Model\\Song.cs",
-              "RelativeDocumentMoniker": "FirstRESTApi\\Model\\Song.cs",
-              "ToolTip": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\Model\\Song.cs",
-              "RelativeToolTip": "FirstRESTApi\\Model\\Song.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T09:12:51.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
               "Title": "DailySeed.cs",
-              "DocumentMoniker": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\Model\\DailySeed.cs",
+              "DocumentMoniker": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\Model\\DailySeed.cs",
               "RelativeDocumentMoniker": "FirstRESTApi\\Model\\DailySeed.cs",
-              "ToolTip": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\Model\\DailySeed.cs",
+              "ToolTip": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\Model\\DailySeed.cs",
               "RelativeToolTip": "FirstRESTApi\\Model\\DailySeed.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -271,11 +187,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
               "Title": "Playlist.cs",
-              "DocumentMoniker": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\Model\\Playlist.cs",
+              "DocumentMoniker": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\Model\\Playlist.cs",
               "RelativeDocumentMoniker": "FirstRESTApi\\Model\\Playlist.cs",
-              "ToolTip": "C:\\Users\\Tewodor\\Desktop\\Code\\Csharp-playlist-with-musicbrainz-main\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\Model\\Playlist.cs",
+              "ToolTip": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\Model\\Playlist.cs",
               "RelativeToolTip": "FirstRESTApi\\Model\\Playlist.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

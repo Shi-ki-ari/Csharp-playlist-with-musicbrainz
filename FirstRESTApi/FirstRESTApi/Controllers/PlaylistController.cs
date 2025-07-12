@@ -22,7 +22,7 @@ namespace FirstRESTApi.Controllers
             _musicBrainzService = musicBrainzService;
         }
 
-        // Create or Edit a playlist
+        // Create or edit a playlist
         [HttpPost("createplaylist")]
         public async Task<IActionResult> CreateEdit(Playlist playlist)
         {
