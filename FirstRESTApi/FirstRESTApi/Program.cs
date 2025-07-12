@@ -42,8 +42,6 @@ using (var scope = app.Services.CreateScope())
 
 app.UseCors("AllowAll");
 
-app.UseHttpsRedirection();
-
 app.UseDefaultFiles();
 
 app.UseStaticFiles();
