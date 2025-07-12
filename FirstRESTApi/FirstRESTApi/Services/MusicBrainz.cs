@@ -13,10 +13,6 @@ namespace FirstRESTApi.Services
             _HttpClient = httpClient;
         }
 
-        public async Task<List<Song>> SearchSongsAsync(string query)
-        {
-            if()
-        }
 
     }
 }

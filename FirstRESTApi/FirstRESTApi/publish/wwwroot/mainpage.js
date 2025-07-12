@@ -45,14 +45,13 @@ data.forEach(songName => {
   const li = document.createElement("li");
   li.textContent = songName;
 
-  // ➕ Add Button
   const addBtn = document.createElement("button");
   addBtn.textContent = "+";
   addBtn.style.marginLeft = "10px";
   addBtn.style.cursor = "pointer";
 
   addBtn.addEventListener("click", () => {
-  // Prevent multiple dropdowns or buttons
+  // Prevent multiple dropdowns
   if (li.querySelector("select") || li.querySelector(".confirm-add-button")) return;
 
   const dropdown = document.createElement("select");
@@ -108,13 +107,12 @@ data.forEach(songName => {
 });
 
 
-// Load playlists from backend and render them
 async function loadPlaylists() {
     const response = await fetch('/api/playlist');
     if (!response.ok) throw new Error('Failed to load playlists');
 
     const playlists = await response.json();
-    cachedPlaylists = playlists; // <--- Refresh cache
+    cachedPlaylists = playlists;
 
     const list = document.getElementById('playlist-list');
     list.innerHTML = '';
@@ -140,7 +138,7 @@ async function loadPlaylists() {
                         const errorText = await deleteResponse.text();
                         throw new Error(errorText || "Failed to delete playlist");
                     }
-                    await loadPlaylists(); 
+                    await loadPlaylists(); // <- triggers refresh below too
                 } catch (err) {
                     alert('Error deleting playlist: ' + err.message);
                 }
@@ -175,9 +173,10 @@ async function loadPlaylists() {
         list.appendChild(li);
     });
 
-    // Refresh dropdowns
     searchInput.dispatchEvent(new Event('input'));
+    loadRandomSongs();
 }
+
 
 
 // Add playlist when user clicks button
@@ -223,74 +222,74 @@ document.getElementById('add-playlist-button').addEventListener('click', async (
 });
 
 async function loadRandomSongs() {
-  const randomList = document.getElementById('random-songs-list');
-  randomList.innerHTML = '';
+    const randomList = document.getElementById('random-songs-list');
+    randomList.innerHTML = '';
 
-  try {
-    const response = await fetch('/api/song/getRandSongs');
+    try {
+        const response = await fetch('/api/song/getRandSongs');
+        if (!response.ok) throw new Error('Failed to fetch random songs');
 
-    if (!response.ok) throw new Error('Failed to fetch random songs');
+        const songs = await response.json();
+        cachedPlaylists = await fetchPlaylistsForDropdown(); // update dropdown cache
 
-    const songs = await response.json();
-    cachedPlaylists = await fetchPlaylistsForDropdown(); // update dropdown cache
+        songs.forEach(songFullName => {
+            const li = document.createElement('li');
+            li.textContent = songFullName;
 
-    songs.forEach(songFullName => {
-      const li = document.createElement('li');
-      li.textContent = songFullName;
+            const addBtn = document.createElement('button');
+            addBtn.textContent = '+';
+            addBtn.style.marginLeft = '10px';
+            addBtn.style.cursor = 'pointer';
 
-      const addBtn = document.createElement('button');
-      addBtn.textContent = '+';
-      addBtn.style.marginLeft = '10px';
-      addBtn.style.cursor = 'pointer';
+            addBtn.addEventListener('click', () => {
+                if (li.querySelector('select') || li.querySelector('.confirm-add-button')) return;
 
-      addBtn.addEventListener('click', () => {
-        if (li.querySelector('select') || li.querySelector('.confirm-add-button')) return;
+                const dropdown = document.createElement('select');
+                cachedPlaylists.forEach(pl => {
+                    const option = document.createElement('option');
+                    option.value = pl.id;
+                    option.textContent = pl.name;
+                    dropdown.appendChild(option);
+                });
 
-        const dropdown = document.createElement('select');
-        cachedPlaylists.forEach(pl => {
-          const option = document.createElement('option');
-          option.value = pl.id;
-          option.textContent = pl.name;
-          dropdown.appendChild(option);
+                const confirmBtn = document.createElement('button');
+                confirmBtn.textContent = 'Add';
+                confirmBtn.classList.add('confirm-add-button');
+                confirmBtn.style.marginLeft = '5px';
+
+                confirmBtn.addEventListener('click', async () => {
+                    const playlistId = dropdown.value;
+                    const songName = songFullName.split(' - ')[0];
+
+                    try {
+                        const res = await fetch(
+                            `/api/playlist/${playlistId}/add-song?songName=${encodeURIComponent(songName)}`,
+                            { method: 'POST' }
+                        );
+                        if (!res.ok) throw new Error(await res.text());
+                        alert(`Added "${songName}" to playlist`);
+                    } catch (err) {
+                        alert('Error: ' + err.message);
+                    } finally {
+                        dropdown.remove();
+                        confirmBtn.remove();
+                    }
+                });
+
+                li.appendChild(dropdown);
+                li.appendChild(confirmBtn);
+            });
+
+            li.appendChild(addBtn);
+            randomList.appendChild(li);
         });
 
-        const confirmBtn = document.createElement('button');
-        confirmBtn.textContent = 'Add';
-        confirmBtn.classList.add('confirm-add-button');
-        confirmBtn.style.marginLeft = '5px';
 
-        confirmBtn.addEventListener('click', async () => {
-          const playlistId = dropdown.value;
-
-          const songName = songFullName.split(' - ')[0]; // extract title
-
-          try {
-            const res = await fetch(
-              `/api/playlist/${playlistId}/add-song?songName=${encodeURIComponent(songName)}`,
-              { method: 'POST' }
-            );
-            if (!res.ok) throw new Error(await res.text());
-            alert(`Added "${songName}" to playlist`);
-          } catch (err) {
-            alert('Error: ' + err.message);
-          } finally {
-            dropdown.remove();
-            confirmBtn.remove();
-          }
-        });
-
-        li.appendChild(dropdown);
-        li.appendChild(confirmBtn);
-      });
-
-      li.appendChild(addBtn);
-      randomList.appendChild(li);
-    });
-
-  } catch (err) {
-    randomList.innerHTML = `<li>Error: ${err.message}</li>`;
-  }
+    } catch (err) {
+        randomList.innerHTML = `<li>Error: ${err.message}</li>`;
+    }
 }
+
 
 
 // Load playlists on page load

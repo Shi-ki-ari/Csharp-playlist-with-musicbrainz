@@ -3462,11 +3462,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\FirstRESTApi.csproj",
+      "projectUniqueName": "C:\\Users\\Tewodor\\Desktop\\Csharp-playlist-with-musicbrainz-main (1)\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\FirstRESTApi.csproj",
       "projectName": "FirstRESTApi",
-      "projectPath": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\FirstRESTApi.csproj",
+      "projectPath": "C:\\Users\\Tewodor\\Desktop\\Csharp-playlist-with-musicbrainz-main (1)\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\FirstRESTApi.csproj",
       "packagesPath": "C:\\Users\\Tewodor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tewodor\\Documents\\GitHub\\Csharp-playlist-with-musicbrainz\\FirstRESTApi\\FirstRESTApi\\obj\\",
+      "outputPath": "C:\\Users\\Tewodor\\Desktop\\Csharp-playlist-with-musicbrainz-main (1)\\Csharp-playlist-with-musicbrainz-main\\FirstRESTApi\\FirstRESTApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
